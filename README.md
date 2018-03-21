@@ -23,5 +23,10 @@ Tugas Intent
 ![alt text](https://github.com/ABIDINADIPRASETYO/Tahap-2-divisi-Mobile/blob/master/Android/SS%20intent/Screenshot_20180321-154832.png "Intent pada button 2 yaitu untuk membuka setting pada handphone")
 ![alt text](https://github.com/ABIDINADIPRASETYO/Tahap-2-divisi-Mobile/blob/master/Android/SS%20intent/intent.jpg "Codingan aplikasi intent saya di IDE Android Studio")
 
+Tugas Hello World di IDE Android Studio
+==
+![alt text](https://github.com/ABIDINADIPRASETYO/Tahap-2-divisi-Mobile/blob/master/SS%20Android%20Studio%20Hello%20World/HelloworldAndroidstudio.jpg "Hello World pada IDE Android Studio saya")
+
+
 
 
