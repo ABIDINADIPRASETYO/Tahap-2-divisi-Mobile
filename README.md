@@ -41,7 +41,7 @@ Inheritance pada java
 
 Kelas Abstrak pada Java
 ==
-![alt text](https://github.com/ABIDINADIPRASETYO/Tahap-2-divisi-Mobile/tree/master/SS%20Java/Kelas%20abstrak "class child")
+![alt text](https://github.com/ABIDINADIPRASETYO/Tahap-2-divisi-Mobile/blob/master/SS%20Java/Kelas%20abstrak/kelasabstrak.jpg "class child")
 ![alt text](https://github.com/ABIDINADIPRASETYO/Tahap-2-divisi-Mobile/blob/master/SS%20Java/Kelas%20abstrak/kelasabstrak1.jpg "class parrent")
 
 Kelas Sebagai Objek
