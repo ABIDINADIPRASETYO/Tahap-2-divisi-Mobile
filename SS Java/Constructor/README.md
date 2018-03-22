@@ -1,4 +1,4 @@
 Constructor Pada Java
 ==
-![alt text](https://github.com/ABIDINADIPRASETYO/Tahap-2-divisi-Mobile/tree/master/SS%20Java/Constructor "Codingan Constructor Java")
+![alt text](https://github.com/ABIDINADIPRASETYO/Tahap-2-divisi-Mobile/blob/master/SS%20Java/Constructor/konstructor.jpg "Codingan Constructor pada Java")
 
